@@ -29,3 +29,6 @@ Websites Used:
 -https://unsplash.com
 -https://www.youtube.com/watch?v=7YcW25PHnAA
 -https://www.openweathermap.org/forecast5
+
+To access:
+http://<ipaddress>/Bizmates/travel.php
