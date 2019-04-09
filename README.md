@@ -1,12 +1,3 @@
-<p align="center">
-<p> Websites Used:
-<a href="https://freebiesupply.com/blog/css-inputs/*"></a>
-<a href="https://codepen.io/anon/pen/zXoeVG?page=3"></a>
-<a href="https://unsplash.com"></a>
-<a href="https://www.youtube.com/watch?v=7YcW25PHnAA"></a>
-<a href="https://www.openweathermap.org/forecast5"></a>
-</p>
-
 ## About Bizmap Travel App
 
 Bizmap Travel App is a travelling guide for users who wants to know the weather before going to their desired places. It shows the weather forecast for a specific country. This application is designed and uses an API (openweathermap.org) to output the weather forecast for the desired country. 
