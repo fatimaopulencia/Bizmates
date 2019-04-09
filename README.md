@@ -15,11 +15,12 @@ It only takes one single input from the user and in a just a click, the data tha
 
 Websites Used:
 
--https://freebiesupply.com/blog/css-inputs/*">
--https://codepen.io/anon/pen/zXoeVG?page=3"
--https://unsplash.com
--https://www.youtube.com/watch?v=7YcW25PHnAA
--https://www.openweathermap.org/forecast5
+- Github Repository: https://github.com/fatimaopulencia/Bizmates.git
+- https://freebiesupply.com/blog/css-inputs/*"
+- https://codepen.io/anon/pen/zXoeVG?page=3.
+- https://unsplash.com.
+- https://www.youtube.com/watch?v=7YcW25PHnAA
+- https://www.openweathermap.org/forecast5
 
 To access:
 http://<ipaddress>/Bizmates/travel.php
