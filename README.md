@@ -9,7 +9,7 @@
 
 ## About Bizmap Travel App
 
-Bizmap Travel App is designed from scratch with the use of Laravel framework. This is designed in order to achieve simplicity and cater the requirement of outputting the weather forecasts for a specific country without having the page to load longer than expected. This app uses minimal design and very straightforward on what the user wants to achieve. 
+Bizmap Travel App is designed from scratch without the use of Laravel framework. This is designed in order to achieve simplicity and cater the requirement of outputting the weather forecasts for a specific country without having the page to load longer than expected. This app uses minimal design and very straightforward on what the user wants to achieve. 
 
 It only takes one single input from the user and in a just a click, the data that the user need will be shown.
 
